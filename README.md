@@ -1,10 +1,9 @@
 **My-Store-Annual-Report**
 
-**Overview**
-
+**Overview**:
 This project analyzes annual sales data for a store to identify trends, patterns, and actionable insights. The dataset includes information such as Order ID, Customer ID, Gender, Age, Date, Channel, Category, Quantity, Amount, and Location.
 
-**Dataset**
+**Dataset**:
 
 The dataset consists of 22 columns, including:
 
@@ -44,7 +43,7 @@ Derived actionable insights, including:
 
 Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboard Creation).
 
-**How to Use**
+**How to Use**:
 
   1.Download the Excel file (My Store Annual Report.xlsx).
 
