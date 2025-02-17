@@ -1,10 +1,13 @@
 **My-Store-Annual-Report**
 
 **Overview**
+
 This project analyzes annual sales data for a store to identify trends, patterns, and actionable insights. The dataset includes information such as Order ID, Customer ID, Gender, Age, Date, Channel, Category, Quantity, Amount, and Location.
 
 **Dataset**
+
 The dataset consists of 22 columns, including:
+
 **Customer details** (Cust ID, Gender, Age, Age Group).
 **Order details** (Order ID, Date, Status, Channel).
 **Product details** (SKU, Category, Size, Qty, Amount).
@@ -12,6 +15,7 @@ The dataset consists of 22 columns, including:
 **Business type** (B2B indicator).
 
 **Steps Performed**
+
 **1. Data Cleaning**
 Removed duplicates and missing values.
 Standardized date formats and currency values.
@@ -37,11 +41,15 @@ Derived actionable insights, including:
 ![Excel Dashboard](https://github.com/user-attachments/assets/d16286fe-f7b3-4760-b31a-ae3527f17dce)
 
 **Technologies Used**
+
 Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboard Creation).
 
 **How to Use**
+
   1.Download the Excel file (My Store Annual Report.xlsx).
+
   2.Open the file and navigate to the Dashboard sheet to view the interactive dashboard.
+
   3.Explore the Data sheet for the cleaned and processed dataset.
 
 
