@@ -25,12 +25,12 @@ This project analyzes annual sales data for a store to identify trends, patterns
    Visualized key insights using **bar charts, pie charts, and line graphs**.
 5. Insights:
    Derived actionable insights, including:
-  1.Highest sales in March.
-  2.Women contributed significantly more to sales.
-  3.92% of orders were successfully delivered.
-  4.Identified top 5 states with the highest sales.
-  5.Majority of orders were from adults, with women leading in purchases.
-  6.Amazon was the top sales channel, followed by Myntra.
+   1. Highest sales in March.
+   2. Women contributed significantly more to sales.
+   3. 92% of orders were successfully delivered.
+   4. Identified top 5 states with the highest sales.
+   5. Majority of orders were from adults, with women leading in purchases.
+   6. Amazon was the top sales channel, followed by Myntra.
 
 **Dashboard Preview :**
 ![Excel Dashboard](https://github.com/user-attachments/assets/d16286fe-f7b3-4760-b31a-ae3527f17dce)
